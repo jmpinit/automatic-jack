@@ -1,0 +1,6 @@
+# PDFs should only be referenced
+*.pdf
+
+# Vim
+*.swo
+*.swp
